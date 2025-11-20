@@ -272,4 +272,3 @@ I specialize in building **local-first applications** that protect user data by 
 
 ### 📫 Connect with Me
 - GitHub: **github.com/vancuf**  
-- LinkedIn: *Add link here*  

@@ -171,7 +171,7 @@ Xodus demonstrates practical security engineering skills across multiple layers:
 Showcasing the custom Xodus USB dongle used as a secure, portable endpoint.
 
 ```md
-![Xodus USB dongle close-up](https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/469042872_549053107971420_2331577392041970834_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Z_P7AMp2ND0Q7kNvwEj26Ev&_nc_oc=AdlOTnD3rgR7Xv2s1JKjccw6kpgbDImQQfOlCaD6KlVF5ltyjzPdehsV2Rw1sHnKfR8&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=U9636KPVhcW2Q_a_T1t0Bg&oh=00_Afj0p_R2hAvGTePdbSC9K5-oUDlFJwSc8h-IsN0ThozJew&oe=69253252)
+[Xodus USB dongle close-up](https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/469042872_549053107971420_2331577392041970834_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Z_P7AMp2ND0Q7kNvwEj26Ev&_nc_oc=AdlOTnD3rgR7Xv2s1JKjccw6kpgbDImQQfOlCaD6KlVF5ltyjzPdehsV2Rw1sHnKfR8&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=U9636KPVhcW2Q_a_T1t0Bg&oh=00_Afj0p_R2hAvGTePdbSC9K5-oUDlFJwSc8h-IsN0ThozJew&oe=69253252)
 ```
 
 ### 6.2 Multi-Device Secure Workflow
@@ -179,7 +179,7 @@ Showcasing the custom Xodus USB dongle used as a secure, portable endpoint.
 Laptop running the Xodus desktop app with the dongle attached, alongside a mobile device showing the Xodus mobile app.
 
 ```md
-![Xodus app running on laptop and phone with Xodus USB dongle attached](https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/469204704_549052581304806_7071034171603607273_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vVzJ4Nv5clgQ7kNvwHo7IA1&_nc_oc=AdnYGjmvFcGYYlWB8MhmO2qoG9fwB5C2AZPIhyIevZf02bOfcqXghttP0Tt6PDR0sFE&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=mXqKzI1Ivq930XXBdwTjuw&oh=00_AfgOxJ1TQRt45wXMVtdJIivTtb6YmMsBP8UMThS27zHMWA&oe=69250821)
+[Xodus app running on laptop and phone with Xodus USB dongle attached](https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/469204704_549052581304806_7071034171603607273_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vVzJ4Nv5clgQ7kNvwHo7IA1&_nc_oc=AdnYGjmvFcGYYlWB8MhmO2qoG9fwB5C2AZPIhyIevZf02bOfcqXghttP0Tt6PDR0sFE&_nc_zt=23&_nc_ht=scontent-mia3-2.xx&_nc_gid=mXqKzI1Ivq930XXBdwTjuw&oh=00_AfgOxJ1TQRt45wXMVtdJIivTtb6YmMsBP8UMThS27zHMWA&oe=69250821)
 ```
 
 ### 6.3 System Overview & Manual
@@ -187,7 +187,7 @@ Laptop running the Xodus desktop app with the dongle attached, alongside a mobil
 A page from the user manual explaining how to plug in the device, open the app, scan the QR code, and start sending files securely.
 
 ```md
-![Xodus quick start and feature overview manual](https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/475349918_588396270707857_5171924715690771691_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=pcgaMN84FwcQ7kNvwFKUpuz&_nc_oc=AdmQwKqeHVbaweEj8nzdsJG7UTbVBYKxMGSwlpypiSnto04JLhnSNop7ex5L6WXEqh8&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=ZntygLnyVf_dS0OVIqu0VQ&oh=00_AfggBqGsggXQivTFu3wbter1HQ9yPiZyZADDlyinvpmfCg&oe=69252262)
+[Xodus quick start and feature overview manual](https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/475349918_588396270707857_5171924715690771691_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=pcgaMN84FwcQ7kNvwFKUpuz&_nc_oc=AdmQwKqeHVbaweEj8nzdsJG7UTbVBYKxMGSwlpypiSnto04JLhnSNop7ex5L6WXEqh8&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=ZntygLnyVf_dS0OVIqu0VQ&oh=00_AfggBqGsggXQivTFu3wbter1HQ9yPiZyZADDlyinvpmfCg&oe=69252262)
 ```
 
 ### 6.4 Cross-Platform Demo
@@ -195,7 +195,7 @@ A page from the user manual explaining how to plug in the device, open the app, 
 Tablet and laptop both connected via Xodus, demonstrating secure file transfer across platforms.
 
 ```md
-![Cross-platform demo showing tablet and laptop using Xodus](https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/469069667_549052574638140_2809359909652229420_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=HkNkP-cEnbUQ7kNvwHmQxdV&_nc_oc=Adl9qAD1hA0foghQegn4P485v9j59ZTtVHT5UX_7eNdn6Iqd4ko4OVaFYKqtgqM1Pvc&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=_Xx9MiMuA8tyt0bkovW7Iw&oh=00_AfjB8sXEZWJbasIGYmfnjfb5KR66kEMw7TGxzfLx8n607w&oe=69251418)
+[Cross-platform demo showing tablet and laptop using Xodus](https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/469069667_549052574638140_2809359909652229420_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=HkNkP-cEnbUQ7kNvwHmQxdV&_nc_oc=Adl9qAD1hA0foghQegn4P485v9j59ZTtVHT5UX_7eNdn6Iqd4ko4OVaFYKqtgqM1Pvc&_nc_zt=23&_nc_ht=scontent-mia3-1.xx&_nc_gid=_Xx9MiMuA8tyt0bkovW7Iw&oh=00_AfjB8sXEZWJbasIGYmfnjfb5KR66kEMw7TGxzfLx8n607w&oe=69251418)
 ```
 
 > Additional screenshots (e.g., file lists or streaming views) can be included after blurring or cropping copyrighted media titles.
@@ -206,11 +206,9 @@ Tablet and laptop both connected via Xodus, demonstrating secure file transfer a
 
 > Replace these placeholders with your real URLs when publishing.
 
-- 📱 **Xodus App – iOS (App Store)**  
-  `https://share.google/J1Il8jfYU2POatWQu`  
+- 📱 [Xodus App – iOS (App Store)](https://share.google/J1Il8jfYU2POatWQu)
 
-- 🤖 **Xodus App – Android (APK Download)**  
-  `https://share.google/d8n16TQXtOM731ssM`  
+- 🤖 [Xodus App – Android (APK Download)](https://share.google/d8n16TQXtOM731ssM)
 
 ---
 

@@ -1,7 +1,7 @@
 # 🔐 Xodus App — Secure Cross-Platform File Sharing & Media Streaming
 
 ## Overview
-**Xodus App** is a secure, cross-platform file-sharing and media-streaming system custom USB dongle. It enables fast, private file transfers, audio streaming, and video playback across Android, iOS, macOS, and Windows — without relying on cloud infrastructure.
+**Xodus** is a secure, cross-platform file-sharing and media-streaming USB dongle. It enables fast, private file transfers, audio streaming, and video playback across Android, iOS, macOS, and Windows — without relying on cloud infrastructure.
 
 This project reflects my focus on building **fully local, privacy-first software** that protects users and organizations by minimizing external dependencies.
 

@@ -56,4 +56,3 @@ My upcoming project, **Evocore**, continues this philosophy — an AI-powered sy
 **Vanel Cuffie**  
 Cybersecurity & Software Developer  
 🎯 Passionate about ethical hacking, system security, and privacy-focused design.  
-🔗 [LinkedIn Profile or Personal Site] (optional)

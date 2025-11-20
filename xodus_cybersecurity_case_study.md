@@ -245,6 +245,6 @@ My upcoming project, **Evocore**, continues this philosophy: an AI-powered syste
 **Vanel Cuffie**  
 Cybersecurity & Software Developer  
 
-- 15+ years of professional experience as a computer graphic artist.  
+- With 15+ years of professional experience as a digital artist, I’ve developed exceptional creativity and precision. Over that time, I also grew my software engineering skills, building cross-platform apps and local AI tools — a combination that naturally evolved into my current focus on cybersecurity and privacy-first system design.
 - Transitioning into cybersecurity with a focus on secure systems, ethical hacking, and privacy-first product design.  
 - Passionate about building tools that combine **strong security**, **good UX**, and **practical real-world deployment**.

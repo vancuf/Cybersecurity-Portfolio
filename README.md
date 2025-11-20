@@ -48,7 +48,7 @@ This design helps protect the **CIA triad**:
 
 For environments that require secure remote access or encrypted tunnels, the Xodus USB includes a **portable WireGuard implementation**. This can be launched directly from the dongle, without needing installation or admin-heavy setup.
 
-#### Directory Structure (on the Xodus USB)
+#### Directory Structure (on the Xodus USB dongle)
 
 ```text
 Xodus/
@@ -61,7 +61,7 @@ Xodus/
   run_xodus_secure.cmd
 ```
 
-#### WireGuard Client Configuration — `XodusUSB/wireguard/xodus-wg.conf`
+#### WireGuard Client Configuration — `Xodus/wireguard/xodus-wg.conf`
 
 ```ini
 [Interface]
